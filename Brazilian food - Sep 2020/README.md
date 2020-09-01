@@ -3,6 +3,8 @@
 Presented by @LeonardoViotti on 
 September 16, 2020
 
+Brazilian cusine is varied and rich, but often takes specific ingredients not so easily found in the US. For this session we made an effort to select a very traditional and delicous dishes that can be made with ingredients commonly found in (fancy) supermarkets in DC. There are links for recommended ingredients from amazon.com, but the main dish can be made without them. For the side dish, if you don't want to order anything, please feel free to replace farofa with plain white rice.
+
 - Main: [moqueca de banana-da-terra](./)
 - Side: [farofa](./farofa.md)
 - Optional side: white rice.
@@ -21,4 +23,4 @@ Farofa is served alongside the main course and can either be sprinkled on by ind
 or eaten as an accompaniment in its own right, as rice is often consumed. Besides cassava, corn flour is also used for farofa making.
 In West Africa, a variant of cassava flour known as garri is used in various dishes.(Source: [Wikipedia](https://en.wikipedia.org/wiki/Farofa))
 
-This recipe is a liberal adaptation of the chef (with some youtube influnces) of traditional recipes.
+This recipe is a liberal adaptation (with some [youtube](https://www.youtube.com/watch?v=qKCZK3v1eoA) influnces).
