@@ -1,7 +1,7 @@
 # Lightning seminar cooking sessions
 
 - ???, 2020: Indian cuisine - Dahl and paneer makhani
-- [September 9, 2020: Brazilian cuisine - Moqueca and farofa](./September2020/README.md)
+- [September 9, 2020: Brazilian cuisine - Moqueca and farofa](./Brazilian food - Sep 2020/README.md)
 
 ## How to use this repository
 
