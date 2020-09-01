@@ -1,6 +1,6 @@
 # Caipirinha
 
-## INGREDIENTS
+## Ingredients
  - Cachaça
  - Lime
  - Sugar
