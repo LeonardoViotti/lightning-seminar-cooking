@@ -18,7 +18,7 @@
  - Salt.
  - Black pepper.
 
- ## KITCHEN APPLIANCES
+ ## Kitchen appliances APPLIANCES
  - Large pan, ideally with thick bottom. A clay pot is traditionally used, but a cast iron or enameled dutch oven are the second best options. 
 
 ## Preparation
