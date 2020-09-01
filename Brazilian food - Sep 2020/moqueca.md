@@ -1,3 +1,4 @@
+# Moqueca de Banana-da-terra
 
 ## Ingredients
  - 4-5 large mature plantains.
@@ -18,7 +19,7 @@
  - Salt.
  - Black pepper.
 
- ## Kitchen appliances APPLIANCES
+## Kitchen appliances
  - Large pan, ideally with thick bottom. A clay pot is traditionally used, but a cast iron or enameled dutch oven are the second best options. 
 
 ## Preparation
