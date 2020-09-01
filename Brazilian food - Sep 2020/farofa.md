@@ -1,13 +1,6 @@
 # Farofa
 
-Farofa (Brazilian Portuguese: [fa'ɾɔfɐ]) is a toasted cassava or corn flour mixture. 
-Farofa is served alongside the main course and can either be sprinkled on by individual diners to their taste before eating, 
-or eaten as an accompaniment in its own right, as rice is often consumed. Besides cassava, corn flour is also used for farofa making.
-In West Africa, a variant of cassava flour known as garri is used in various dishes.
-
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Farofa)
-
-## INGREDIENTS
+## Ingredients
 
  - Toasted cassava flour (Farinha de mandioca torrada)
    - Note that it has to be _toasted_. The raw flour cannot be used for this recipe. 
@@ -22,13 +15,13 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Farofa)
  - Fresh cilantro
  - Lime and/or lemon zest
 
-## KITCHEN APPLIANCES
+## Kitchen appliances
  - Large frying pan.
  
-## PREPARATION
- - Fry the onion in palm oil until very soft.
- - Add salt to taste.
- - Add nuts and let them fry a bit.
- - Add a generous quantity of butter.
- - Add flour and mix well.
- - Turn off the heat and add chopped cilantro and lime zest.
+## Preparation
+ 1. Fry the onion in palm oil until very soft.
+ 2. Add salt to taste.
+ 3. Add nuts and let them fry a bit.
+ 4. Add a generous quantity of butter.
+ 5. Add flour and mix well.
+ 6. Turn off the heat and add chopped cilantro and lime zest.
