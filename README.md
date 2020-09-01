@@ -7,5 +7,5 @@ This is a repo to share materials for DIME's lightning seminars cooking editions
 
 ## How to use this repository
 
-- Browse recipes
+- Browse recipes through the links above
 - Send questions and comments through issues
