@@ -5,7 +5,7 @@ September 9, 2020
 
 Brazilian cusine is varied and rich, but often takes specific ingredients not so easily found in the US. For this session we made an effort to select a very traditional and delicous dishes that can be made with ingredients commonly found in (fancy) supermarkets in DC. There are links for recommended ingredients from amazon.com, but the main dish can be made without them. For the side dish, if you don't want to order anything, please feel free to replace farofa with plain white rice.
 
-- Main: [moqueca de banana-da-terra](./)
+- Main: [moqueca de banana-da-terra](./moqueca.md)
 - Side: [farofa](./farofa.md)
 - Optional side: white rice.
 - Drink: [caipirinha](./caipirinha.md)
