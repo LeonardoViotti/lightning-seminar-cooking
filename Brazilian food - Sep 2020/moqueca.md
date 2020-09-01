@@ -1,10 +1,5 @@
-# Moqueca de banana da terra
 
-Moqueca (IPA: [moˈkɛkɐ] or IPA: [muˈkɛkɐ] depending on the dialect, also spelled muqueca) is a Brazilian seafood stew. It is slowly cooked in a terracotta cassole. Moqueca can be made with shrimp or fish as a base with tomatoes, onions, garlic, lime and coriander. The name moqueca comes from the term mu'keka in Kimbundu language (Source: [Wikipedia](https://en.wikipedia.org/wiki/Moqueca)).
-
-This recipe is for a vegetarian version of moqueca, that is also commonly served in Northeastern Brazil.
-
-## INGREDIENTS
+## Ingredients
  - 4-5 large mature plantains.
  - 6 medium tomatoes in slices.
  - 2 medium onions in slices (or julienne).
@@ -24,10 +19,9 @@ This recipe is for a vegetarian version of moqueca, that is also commonly served
  - Black pepper.
 
  ## KITCHEN APPLIANCES
- - Large pan, ideally with thick bottom.
-   - A clay pot is traditionally used, but a cast iron or enameled dutch oven are the second best options. 
+ - Large pan, ideally with thick bottom. A clay pot is traditionally used, but a cast iron or enameled dutch oven are the second best options. 
 
-## PREPARATION
+## Preparation
 1. Cut plantains in thick stripes and season with salt, garlic and lemon.
 2. Pre-heat the pan and fry part (1/3 aprox.) of the onions with the sliced chilies and very thinly chopped cilantro stems in a mix of olive and palm oil.
 3. Once the onions are soft, add garlic and let it fry a bit.
