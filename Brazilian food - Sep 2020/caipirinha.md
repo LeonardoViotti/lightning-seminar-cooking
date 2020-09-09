@@ -7,12 +7,11 @@
  - 1 cup of ice cubes.
  
 ## Kitchen appliances
- - A cocktail shaker or thick glass
- - A pestle
+ - Cocktail shaker or thick glass.
+ - Pestle or wood spoon.
  
 ## Preparation
- 1. Cut of the bottom and top parts of the limes and quarter them.
+ 1. Cut off the bottom and top parts of the limes and quarter them.
  2. Remove tha white strip in the middle.
- 3. In the glass squeeze and drop the lime quarters.
- 4. Smash and mix the lime and sugar.
- 5. Add ice and cachaça.
+ 3. In the glass, squeeze and drop the lime quarters. Smash and mix with sugar.
+ 4. Add ice, cachaça, and server
